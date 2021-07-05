@@ -1,0 +1,4 @@
+{
+  "exclude": ["internal/**/*.ts"],
+  "enforceVersion": false
+}
