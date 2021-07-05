@@ -1,0 +1,9 @@
+remote_theme: pmarsceill/just-the-docs
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  'build-fp-ts-lib on GitHub':
+    - 'http://github.com/no-day/build-fp-ts-lib'
